@@ -18,6 +18,16 @@ The European Commission has proposed a comprehensive regulation for Artificial I
 
 6. **Penalties for Non-Compliance**: The legislation outlines the administrative fines for non-compliance with AI regulations. Fines can reach up to 30 million EUR or 6% of a company's total worldwide annual turnover.
 
+## Levels of Risk
+
+The proposed EU AI Act categorizes AI systems into three levels of risk:
+
+1. **Unacceptable Risk**: Certain AI practices are considered to have an unacceptable level of risk due to their potential to violate fundamental rights. These practices are prohibited under the proposed regulation. Examples include AI systems that manipulate human behavior, exploit vulnerabilities of specific groups, or enable social scoring by public authorities.
+
+2. **High Risk**: High-risk AI systems are subject to strict regulation and specific requirements. These systems include those used in critical infrastructures, educational or vocational training, employment, essential private and public services, law enforcement, migration, asylum and border control management, and administration of justice. High-risk AI systems must comply with requirements related to data quality, technical documentation, transparency, human oversight, and robustness. They must also undergo a conformity assessment before being put on the market.
+
+3. **Low or Minimal Risk**: AI systems that pose a low or minimal risk have fewer regulatory requirements. The majority of AI systems fall into this category. The proposal encourages providers of these systems to adhere to voluntary codes of conduct.
+
 ## Amendments to Existing Legislation
 
 The proposal also includes amendments to various EU regulations and directives. When adopting delegated or implementing acts related to AI systems, which are considered safety components, the requirements outlined in Title III, Chapter 2 of the new Regulation on Artificial Intelligence must be considered.

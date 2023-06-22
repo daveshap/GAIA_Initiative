@@ -1,3 +1,5 @@
+SOURCE - https://lieu.house.gov/media-center/press-releases/reps-lieu-buck-eshoo-and-sen-schatz-introduce-bipartisan-bicameral-bill 
+
 # H.R. ll - National AI Commission Act
 
 ## 118TH CONGRESS 1ST SESSION

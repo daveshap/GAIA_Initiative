@@ -1,4 +1,4 @@
-# GAIA Initiative
+# Global AI Agencies (GAIA) Initiative
 
 Global AI Agencies - an offshoot of [GATO Framework](https://www.gatoframework.org/). Advocating for national, international, and global AI research and safety. 
 

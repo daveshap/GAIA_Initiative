@@ -12,6 +12,10 @@ TLDR: Future of Life Institute [published an open letter](https://futureoflife.o
 
 TLDR: https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach (more coming)
 
+### 2023-05-12 U.N. Secretary-General Antonio Guterres amenable to "IAEA for AI"
+
+TLDR: https://www.reuters.com/technology/un-chief-backs-idea-global-ai-watchdog-like-nuclear-agency-2023-06-12/ (pretty much what the header says)
+
 ### 2023-05-16 Senate Hearing on AI
 
 TLDR: The US Senate Judiciary Committee [held a hearing](https://www.judiciary.senate.gov/committee-activity/hearings/oversight-of-ai-rules-for-artificial-intelligence) with Sam Altman, Gary Marcus, and Christina Montgomery (IBM). The discussion was huge and wide ranging, but they talked extensively about the need for regulation. You can see a [comprehensive summary of the transcript here](https://github.com/daveshap/GAIA_Initiative/blob/main/US%20Senate%20Hearing%20on%20AI%20with%20Sam%20Altman.md).

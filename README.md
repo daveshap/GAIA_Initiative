@@ -31,3 +31,7 @@ TLDR: US House to launch a bipartisan [AI advisory commission](https://lieu.hous
 ### 2023-06-21 - US Senate SAFE Innovation Framework
 
 TLDR: Senator Chuck Schumer is introducing the [SAFE Innovation Framework](https://www.csis.org/events/sen-chuck-schumer-launches-safe-innovation-ai-age-csis) designed to prioritize AI innovation but to do so safely. You can read the [summary here](https://github.com/daveshap/GAIA_Initiative/blob/main/Chuck%20Schumer%20SAFE%20Innovation%20Framework.md).
+
+### 2023-06-29 - Pope endorses ITEC Organizational Roadmap
+
+TLDR: This is a comprehensive document outlining corporate governance and ethics in AI. It is broken up into sections to address major internal departments, such as C-level, HR, Legal, and others. [ITEC Framework](https://www.scu.edu/media/ethics-center/itec/Ethics-in-the-Age-of-Disruptive-Technologies:An-Operational-Roadmap---ITEC-Handbook-June-2023.pdf)
